@@ -1,0 +1,11 @@
+#role-form-title {
+  color: whitesmoke;
+}
+
+#role-form-outer-div {
+  color: whitesmoke;
+}
+.form-input {
+  display: flex;
+  align-items: center;
+}
